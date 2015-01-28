@@ -1,0 +1,18 @@
+{
+  "name": "gist-slide",
+  "version": "0.0.0",
+  "description": "compile gist to presentation slide for Google Chrome™",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lotz84/gist-slide.git"
+  },
+  "author": [
+    "ひろせ",
+    "jigsaw (http://jgs.me)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lotz84/gist-slide/issues"
+  },
+  "homepage": "https://github.com/lotz84/gist-slide"
+}
