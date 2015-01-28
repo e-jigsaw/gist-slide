@@ -1,0 +1,21 @@
+{
+  "name": "gist-slide",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lotz84/gist-slide",
+  "authors": [
+    "ひろせ",
+    "jigsaw (http://jgs.me)"
+  ],
+  "description": "compile gist to presentation slide for Google Chrome™",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "remark": "~0.10.2"
+  }
+}
